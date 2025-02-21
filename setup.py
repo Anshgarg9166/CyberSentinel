@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="CyberSentinel",
-    version="0.1.0",
+    version="0.1.1",
     author="Ansh Garg",
-    author_email="your-email@example.com",
+    author_email="gargansh2712.com",
     description="A Website Security & Health Checker",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/CyberSentinel",  # Change this
+    url="https://github.com/Anshgarg9166/CyberSentinel",
     packages=find_packages(),
     install_requires=[
         "requests",
