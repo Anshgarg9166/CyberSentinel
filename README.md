@@ -31,3 +31,4 @@ cybersentinel https://example.com
 - **Python Version**: 3.6+  
 
 ---
+![PyPI - Downloads](https://img.shields.io/pypi/dm/CyberSentinel?label=Downloads&color=blue)
