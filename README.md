@@ -1,4 +1,3 @@
-Here’s a **PyPI-friendly description** for **CyberSentinel**:  
 
 ---
 
@@ -31,4 +30,4 @@ cybersentinel https://example.com
 - **Python Version**: 3.6+  
 
 ---
-![PyPI - Downloads](https://img.shields.io/pypi/dm/CyberSentinel?label=Downloads&color=blue)
+[![PyPI Downloads](https://static.pepy.tech/badge/cybersentinel)](https://pepy.tech/projects/cybersentinel)

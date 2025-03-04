@@ -44,3 +44,20 @@ def main():
     
 if __name__ == "__main__":
     main()
+
+
+from cybersentinel.malware_check import check_malware
+
+def main():
+    import sys
+    if len(sys.argv) < 2:
+        print("Usage: cybersentinel <URL>")
+        sys.exit(1)
+    
+    url = sys.argv[1]
+    
+    print("🔍 Checking website security...\n")
+    
+    # Call Malware & Phishing Detection
+    result = check_malware(url)
+    print(result)
