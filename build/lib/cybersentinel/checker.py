@@ -70,7 +70,3 @@ def main():
     # Call Malware & Phishing Detection
     result = check_malware(url)
     print(result)
-
-
-
-
