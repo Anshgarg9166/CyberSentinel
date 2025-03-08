@@ -11,3 +11,4 @@ CyberSentinel.egg-info/top_level.txt
 cybersentinel/__init__.py
 cybersentinel/checker.py
 cybersentinel/malware_check.py
+cybersentinel/tempCodeRunnerFile.py
